@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "398241858455",
+    "firebase_url": "https://mobileapp-vaksinb.firebaseio.com",
+    "project_id": "mobileapp-vaksinb",
+    "storage_bucket": "mobileapp-vaksinb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398241858455:android:5fe57105665695c5",
+        "android_client_info": {
+          "package_name": "com.ggsg.vaksinb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398241858455-keuck57jnj4bscq1o199d4lrpuu4r7oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ggsg.vaksinb",
+            "certificate_hash": "6560ae4f2e30b6dbab1715e022b7bfb844b9f16f"
+          }
+        },
+        {
+          "client_id": "398241858455-tootck1anh9ei5purodvku0rqkog5ksg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwNaom5L1TjOnZj-PZ7ztDOkSSBXfKJ-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398241858455-tootck1anh9ei5purodvku0rqkog5ksg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

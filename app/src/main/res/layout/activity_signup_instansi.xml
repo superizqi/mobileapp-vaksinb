@@ -30,12 +30,14 @@
             android:paddingBottom="25dp">
 
             <ImageView
+                android:id="@+id/left_arrow_instansi"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:src="@drawable/left_arrow" />
 
             <TextView
+                android:id="@+id/tv_instansi"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/roboto_bold"
@@ -200,6 +202,7 @@
                     android:layout_height="wrap_content"
                     android:src="@drawable/pilih_gambar"
                     android:layout_marginBottom="25dp"
+                    android:clickable="true"
                     />
 
                 <TextView
@@ -221,9 +224,11 @@
 
                     <ImageView
                         android:id="@+id/img_surat_operasional"
-                        android:layout_width="wrap_content"
+                        android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:src="@drawable/recplus" />
+                        android:src="@drawable/recplus"
+                        android:clickable="true"
+                        />
 
                 </LinearLayout>
 

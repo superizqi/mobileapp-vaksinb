@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -31,12 +32,14 @@
             android:paddingBottom="36dp">
 
             <ImageView
+                android:id="@+id/left_arrow"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:src="@drawable/left_arrow" />
 
             <TextView
+                android:id="@+id/tv_pengguna"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/roboto_bold"
@@ -87,7 +90,7 @@
                     android:textSize="16dp" />
 
                 <EditText
-                    android:id="@+id/edt_nama"
+                    android:id="@+id/edt_nama_pengguna"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="16dp"
@@ -96,8 +99,6 @@
                     android:paddingLeft="10dp"
                     android:textColor="@color/black"
                     android:textSize="16dp" />
-
-
 
                 <TextView
                     android:id="@+id/tv_email"
@@ -110,7 +111,7 @@
                     android:textSize="16dp" />
 
                 <EditText
-                    android:id="@+id/edt_email"
+                    android:id="@+id/edt_email_pengguna"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="16dp"
@@ -131,7 +132,7 @@
                     android:textSize="16dp" />
 
                 <EditText
-                    android:id="@+id/edt_username"
+                    android:id="@+id/edt_username_pengguna"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="16dp"
@@ -152,7 +153,7 @@
                     android:textSize="16dp" />
 
                 <EditText
-                    android:id="@+id/edt_password"
+                    android:id="@+id/edt_password_pengguna"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="16dp"
@@ -173,7 +174,7 @@
                     android:textSize="16dp" />
 
                 <EditText
-                    android:id="@+id/edt_alamat"
+                    android:id="@+id/edt_alamat_pengguna"
                     android:layout_width="match_parent"
                     android:layout_height="87dp"
                     android:layout_marginBottom="16dp"
@@ -194,7 +195,7 @@
                     android:textSize="16dp" />
 
                 <EditText
-                    android:id="@+id/edt_notelp"
+                    android:id="@+id/edt_notelp_pengguna"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="16dp"
@@ -225,7 +226,7 @@
                     <RadioGroup
                         xmlns:android="http://schemas.android.com/apk/res/android"
                         android:paddingLeft="60dp"
-                        android:id="@+id/rbtn_jeniskelamin"
+                        android:id="@+id/rbtn_jeniskelamin_pengguna"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:orientation="horizontal"
@@ -257,7 +258,7 @@
 
 
                 <Button
-                    android:id="@+id/btn_signup"
+                    android:id="@+id/btn_signup_pengguna"
                     android:layout_width="match_parent"
                     android:layout_height="48dp"
                     android:background="@drawable/rec"
