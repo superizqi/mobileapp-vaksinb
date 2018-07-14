@@ -25,7 +25,9 @@
 
         <activity android:name=".Lupa" />
         <activity android:name=".Signup_pengguna" />
-        <activity android:name=".Signup_instansi"></activity>
+        <activity android:name=".Signup_instansi" />
+        <activity android:name=".Confirmation" />
+        <activity android:name=".Payment"></activity>
     </application>
 
 </manifest>

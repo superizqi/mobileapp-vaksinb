@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-33:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\23c15936d07e2c2f09426239cce93d85\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d5090b90b8fbe5849129d7d37db4d94c\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\66c60628246ab9f4f95d947fa94bdeb5\AndroidManifest.xml:2:1-8:12
@@ -43,25 +43,25 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator_\.grad
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0ea4393e1faa311b3c4b3432ef428c5b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\7403aa81d51d611187b3e7b30667fcf1\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\c84c79fc4fc518c544b88debac4f2198\AndroidManifest.xml:2:1-6:12
-INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
 		ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:3:5-31
 		INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml
 		INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml
-		ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-31:12
+		ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-33:12
 		INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml
-		ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-31:12
+		ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:1-33:12
 		INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:5:5-29:19
+ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:5:5-31:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d5090b90b8fbe5849129d7d37db4d94c\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\d5090b90b8fbe5849129d7d37db4d94c\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\02fa1329e8e5ba57b2b02d03bfc31f91\AndroidManifest.xml:22:5-30:19
@@ -159,9 +159,17 @@ ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:27:9-53
 	android:name
 		ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:27:19-50
 activity#com.ggsg.vaksinb.Signup_instansi
-ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:28:9-62
+ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:28:9-53
 	android:name
 		ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:28:19-50
+activity#com.ggsg.vaksinb.Confirmation
+ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:29:9-50
+	android:name
+		ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:29:19-47
+activity#com.ggsg.vaksinb.Payment
+ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:30:9-54
+	android:name
+		ADDED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml:30:19-42
 uses-sdk
 INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\RPH\mobileapp-vaksinb\app\src\main\AndroidManifest.xml

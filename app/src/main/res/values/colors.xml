@@ -7,6 +7,9 @@
     <color name="black">#000</color>
     <color name="biru">#0a7db5</color>
     <color name="gray">#888888</color>
+    <color name="birumuda">#088AC9</color>
+    <color name="abu">#4F4F4F</color>
+    <color name="kuning">#FFCC31</color>
 
 
 </resources>

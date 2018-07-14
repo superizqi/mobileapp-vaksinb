@@ -46,6 +46,8 @@
         <activity android:name="com.ggsg.vaksinb.Lupa" />
         <activity android:name="com.ggsg.vaksinb.Signup_pengguna" />
         <activity android:name="com.ggsg.vaksinb.Signup_instansi" />
+        <activity android:name="com.ggsg.vaksinb.Confirmation" />
+        <activity android:name="com.ggsg.vaksinb.Payment" />
         <activity
             android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
             android:excludeFromRecents="true"
